@@ -1,7 +1,7 @@
 
 # 🐧 Linux Basics Mini Project: Explore & Organize Your Linux Environment
 
-## 📌 Objective
+##  Objective
 This mini project focuses on fundamental Linux file and directory operations. It helps you learn how to navigate, create, manage, and find files and directories through practical command-line tasks.
 
 
@@ -53,7 +53,7 @@ locate resume.txt
 
 This project helped solidify my understanding of Linux file system navigation and basic file/directory operations. Through hands-on tasks, I became more confident in using the terminal to explore and manage Linux environments effectively.
 
-# Below are screenshots of the project workflow:
+## Below are screenshots of the project workflow:
 
 ![linux_comand](./img/basiccomand.png)
 ![linux_comand](./img/basiccomand1.png)
